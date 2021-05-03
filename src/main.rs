@@ -12,4 +12,5 @@ fn main() {
     for character in font.chars.iter() {
         println!("[{}]", character.code);
     }
+
 }
